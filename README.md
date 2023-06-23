@@ -1,11 +1,12 @@
-### Hi there 👋 I am Rohit Saklani
-___
-## FrontEnd Web Developer
-***
+## Hi there 👋 I am Rohit Saklani
+
+### FrontEnd Web Developer
+
 * Based in India .
-* Tech Stack - HTML, CSS, React, JavaScript , Redux, Java
-* Major FrontEnd developer but also good with BackEnd
----
+* Tech Stack - HTML, CSS, React, JavaScript , Redux, Java .
+* Major FrontEnd developer but also good with BackEnd .
+* Solving DS problems these Days , open to do it with anyone interested . 
+
 
 <!--
 **RohitSaklani/RohitSaklani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
