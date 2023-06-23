@@ -4,7 +4,7 @@
 
 * Based in India .
 * Tech Stack - HTML, CSS, React, JavaScript , Redux, Java .
-* Major FrontEnd developer but also good with BackEnd .
+* Major FrontEnd developer , with good BackEnd .
 * Solving DS problems these Days , open to do it with anyone interested . 
 
 
